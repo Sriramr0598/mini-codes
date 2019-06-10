@@ -1,2 +1,2 @@
 # mini-codes
-Just some small working python fucntional programs
+Just some mini functional games, developed using python
