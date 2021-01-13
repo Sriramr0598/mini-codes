@@ -1,1 +1,1 @@
-Just some mini-games using python
+Just some mini-games using python. Enjoy!!
